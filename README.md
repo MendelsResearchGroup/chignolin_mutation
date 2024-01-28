@@ -4,8 +4,8 @@
 
 ## create anaconda environment
 
-conda env create -f environment.yml
+```conda env create -f environment.yml```
 
 ## load environment 
 
-conda activate gromacs_plumed
+```conda activate gromacs_plumed```
