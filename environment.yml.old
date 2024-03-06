@@ -192,7 +192,6 @@ dependencies:
   - munkres=1.1.4
   - mysql-common=8.0.32
   - mysql-libs=8.0.32
-  - nb_conda_kernels=2.3.1
   - nbclient=0.8.0
   - nbconvert-core=7.14.2
   - nbformat=5.9.2
